@@ -1,5 +1,8 @@
 # meal_app
 
+
+to show my app i uploaded my apk whose name is app-release
+
 A new Flutter project.
 
 ## Getting Started
